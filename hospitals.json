@@ -1,0 +1,26 @@
+{
+    "hospitals": [
+      {
+        "name": "Hospital A",
+        "patients": 150,
+        "location": "Kochi"
+      },
+      {
+        "name": "Hospital B",
+        "patients": 100,
+        "location": "Bangalore"
+        
+      },
+      {
+        "name": "Hospital C",
+        "patients": 250,
+        "location": "Chennai"
+      },
+      {
+        "name": "Hospital D",
+        "patients": 200,
+        "location": "Delhi"
+      }
+    ]
+  }
+  
